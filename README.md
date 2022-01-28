@@ -1,8 +1,8 @@
 # Monte-Carlo-Simulation
 An implementation of the Monte Carlo simulation to predict stock behavior. This project was a part of my data science internship in summer 2021.
-In this project, we will be looking at data from the stock market, particularly some technology stocks. We will use pandas to get stock information, visualize different aspects of it, and finally look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predict future stock prices through a Monte Carlo simulation!
+In this project, we looked at data from the stock market, particularly some technology stocks. We used pandas to get stock information, visualized different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. 
 
-We'll be answering the following questions along the way:
+We answered the following questions along the way:
 
 1.) What was the change in price of the stock over time? 
 2.) What was the daily return of the stock on average? 
